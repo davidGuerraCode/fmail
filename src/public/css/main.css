@@ -1,0 +1,7 @@
+/** 
+* Punto de entrada de todo el css
+*/
+
+@import './global.css';
+@import '../js/components/header/header_styles.css';
+@import '../js/components/inbox/inbox.css';
